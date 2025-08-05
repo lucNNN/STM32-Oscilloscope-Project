@@ -1,21 +1,22 @@
-📖 Project Overview
-This project aims to design and implement a low-cost, portable educational oscilloscope and function signal generator, targeting students who require practical signal testing tools outside traditional labs.
+# Project Overview
 
-Built on an STM32F407 microcontroller, the device supports:
+This project aims to design and implement a **low-cost, portable educational oscilloscope and function signal generator**, targeting students who require practical signal testing tools outside traditional labs.
 
-Dual-channel signal measurement (oscilloscope mode)
+---
 
-Dual-channel waveform output (signal generator mode)
+### Key Features
 
-User interaction via a mouse encoder and buttons
+- **Microcontroller:** STM32F407  
+- **Oscilloscope Mode:** Dual-channel signal measurement  
+- **Signal Generator Mode:** Dual-channel waveform output  
+- **User Interface:** Mouse encoder and buttons for easy interaction  
+- **Display:** Real-time visualization on a full-color screen  
+- **Power Supply:** Type-C input with support for external battery  
 
-Real-time display via a full-color screen
+---
 
-Type-C power input with external battery compatibility
+### Resources
 
-The system was designed, tested, and packaged for offline self-learning during the COVID-19 pandemic.
-
-⬇️ You can view the full technical report and project poster below.
-[report.pdf](https://github.com/user-attachments/files/21589355/report.pdf)
-
-[Poster.pdf](https://github.com/user-attachments/files/21589385/Poster.pdf)
+You can view the full technical documentation and project poster here:  
+- [Technical Report (PDF)](https://github.com/user-attachments/files/21589355/report.pdf)  
+- [Project Poster (PDF)](https://github.com/user-attachments/files/21589385/Poster.pdf)
